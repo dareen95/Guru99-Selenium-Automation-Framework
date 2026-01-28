@@ -102,33 +102,7 @@ Test file:
 
 ---
 
-## 🏗️ Framework Structure
-src
-└── test
-└── java
-├── base
-│ ├── BaseTest.java
-│ └── DriverFactory.java
-│
-├── pages
-│ ├── BasePage.java
-│ ├── LoginPage.java
-│ ├── HomePage.java
-│ ├── NewCustomerPage.java
-│ ├── NewAccountPage.java
-│ └── LogoutPage.java
-│
-├── tests
-│ ├── LoginTest.java
-│ ├── VerifyHomePageTest.java
-│ ├── NewCustomerTest.java
-│ ├── NewAccountTest.java
-│ ├── LogoutTest.java
-│ └── FullCycleTest.java
-│
-└── utils
 
----
 
 ## 🧰 Technologies Used
 - Java
